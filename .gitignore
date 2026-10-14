@@ -1,0 +1,12 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Datos pesados (se descargan aparte, ver README)
+data/*.csv
+!data/.gitkeep
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

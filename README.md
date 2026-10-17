@@ -18,7 +18,7 @@ Limpiar y analizar el e-commerce brasileño de Olist para responder tres pregunt
 
 - Pedidos reales de 2016 a 2018 en un marketplace de Brasil.
 - Tabla principal (pedidos + ítems): 112,650 filas y 14 columnas, con variables numéricas, categóricas y fechas.
-- Tablas secundarias para el `merge`: productos, traducción de categorías, clientes y reseñas.
+- Tablas secundarias para el `merge`: productos, clientes y reseñas.
 
 ### Archivos que deben estar en `data/`
 
@@ -28,7 +28,6 @@ y colócalos en la carpeta `data/`:
 - `olist_orders_dataset.csv`
 - `olist_order_items_dataset.csv`
 - `olist_products_dataset.csv`
-- `product_category_name_translation.csv`
 - `olist_customers_dataset.csv`
 - `olist_order_reviews_dataset.csv`
 

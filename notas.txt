@@ -1,0 +1,2 @@
+Se realizó el tratamiento de valores atípicos (outliers) utilizando la librería NumPy.
+Se combinaron los arreglos procesados para la integración en el dataset final.
